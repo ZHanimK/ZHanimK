@@ -1,7 +1,7 @@
 
-<img src="Picture1.png" width="100%"/>
+![](/Picture1.png)
 
-### Hi there 👋
+## Hi there 👋
 
 This is Zeynep, Junior Full-stack developer based on Antwerpen.
 
