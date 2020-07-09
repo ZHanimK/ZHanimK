@@ -1,5 +1,5 @@
 
-![](/Picture1.png)
+![](https://raw.githubusercontent.com/ZHanimK/ZHanimK/master/Picture1.png)
 
 ## Hi there 👋
 
